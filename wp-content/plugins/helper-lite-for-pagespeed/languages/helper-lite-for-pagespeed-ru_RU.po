@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Helper Lite for PageSpeed\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-21 15:31+0000\n"
+"PO-Revision-Date: 2020-07-21 15:37+0000\n"
+"Last-Translator: Admin\n"
+"Language-Team: Русский\n"
+"Language: ru-RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#: helper-lite-for-pagespeed.php:27
+msgid "PageSpeed Helper"
+msgstr "PageSpeed Helper"
+
+#: admin/admin_fields.php:23
+msgid "Settings"
+msgstr "Настройки"
+
+#: admin/admin_fields.php:33
+msgid "Select filter type"
+msgstr "Выберите тип фильтра"
+
+#: admin/admin_fields.php:34
+msgid ""
+"Filter - use default Wordpress filters. Will not filter all images on page.\n"
+"            <br />\n"
+"            Buffer - use PHP buffer. Filter all images on page. Might cause "
+"problems on some servers."
+msgstr ""
+"Filter - использовать стандартные фильтры Wordpress. Не будет применяться ко "
+"всем изображениям на странице.\n"
+"            <br />\n"
+"Buffer - использовать буфер PHP. Применяется абсолютно ко всем изображениям "
+"на странице. Может вызвать проблемы на некоторых серверах."
+
+#: admin/admin_fields.php:50
+msgid "loading"
+msgstr "loading"
+
+#: admin/admin_fields.php:66
+msgid "decoding"
+msgstr "decoding"
+
+#: admin/admin_fields.php:82
+msgid "Scripts"
+msgstr "Скрипты"
+
+#: admin/admin_fields.php:93
+msgid "Events with attribute passive perform better for touch and wheel"
+msgstr ""
+"Пассивные прослушиватели событий не используются для улучшения "
+"производительности при прокрутке\""
+
+#. Name of the plugin
+msgid "Helper Lite for PageSpeed"
+msgstr "Helper Lite for PageSpeed"
+
+#. Description of the plugin
+msgid ""
+"A faster your site with image attributes decoding=\"async\" & "
+"loading=\"lazy\". Remove problem \"Does not use passive listeners to improve "
+"scrolling performance\". Help to Up Your Google PageSpeed Insights Score. | "
+"<a href=\"https://t.me/wp_booster\" target=\"blank_\">telegram WP Boost</a> "
+"| <a href=\"http://https://github.com/seojacky/helper-lite-for-pagespeed\" "
+"target=\"blank_\">plugin on GitHub</a>"
+msgstr ""
+"Ускоряет Ваш сайт путём добавления к изображениям атрибутов "
+"decoding=\"async\" & loading=\"lazy\". Убирает замечание \"Пассивные "
+"прослушиватели событий не используются для улучшения производительности при "
+"прокрутке\". Помогает поднять баллы в тесте Google PageSpeed Insights. | <a "
+"href=\"https://t.me/wp_booster\" target=\"blank_\">telegram WP Boost</a> | "
+"<a href=\"http://https://github.com/seojacky/helper-lite-for-pagespeed\" "
+"target=\"blank_\">plugin on GitHub</a>"
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/helper-lite-for-pagespeed/"
+msgstr "https://wordpress.org/plugins/helper-lite-for-pagespeed/"
+
+#. Author of the plugin
+msgid "seojacky, Mikhail Kobzarev, Каренина"
+msgstr "seojacky, Mikhail Kobzarev, Каренина"
+
+#. Author URI of the plugin
+msgid "https://t.me/big_jacky"
+msgstr "https://t.me/big_jacky"
